@@ -14,3 +14,4 @@ This repository is used for the GitHub workshop.
 
 ## Participants
 - Kenza Kahramane
+- Arianna Xie
